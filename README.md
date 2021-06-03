@@ -1,3 +1,0 @@
-# georgewang
-
-Creating a website
